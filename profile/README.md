@@ -6,7 +6,7 @@ The intent metadata standard for Soroban smart contracts on Stellar.
 Makes contracts readable by AI agents, wallets, and developer tooling.
 
 **The standard** → [spec](https://github.com/mwongozo/spec)  
-**Rust crate** → [mwongozo-soroban](https://github.com/mwongozo/mwongozo-soroban)  
+**Rust crate** → [mwongozo-soroban](https://github.com/mwongozo/soroban)  
 **TypeScript SDK** → `@mwongozo/stellar`  
 **Registry** → coming soon
 
